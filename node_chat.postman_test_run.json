@@ -1,0 +1,21 @@
+{
+	"id": "a5413450-8a1c-4c90-9270-541ee478d3c9",
+	"name": "node_chat",
+	"allTests": [],
+	"timestamp": "2017-06-15T17:34:23.458Z",
+	"folder_id": 0,
+	"target_type": "collection",
+	"environment_id": "0",
+	"data": [],
+	"count": 1,
+	"collection": null,
+	"folder": null,
+	"environment": null,
+	"globals": [],
+	"results": [],
+	"totalPass": null,
+	"totalTime": 0,
+	"lifecycle": "done",
+	"requests": [],
+	"synced": false
+}
